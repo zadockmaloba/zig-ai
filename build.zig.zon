@@ -1,6 +1,8 @@
 .{
-    .name = "zig-ai",
+    .name = .zig_ai,
     .version = "0.0.3",
+    .fingerprint = 0x6c0bf1561d60e20,
+    .minimum_zig_version = "0.5.0",
     .dependencies = .{},
     .paths = .{
         "build.zig",
